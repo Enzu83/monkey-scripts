@@ -18,9 +18,5 @@
     });
 
     // Remove "Ask Again" footer
-    const ask_again_footer = document.querySelector('.askagain');
-
-    if (ask_again_footer) {
-        ask_again_footer.remove();
-    }
+    document.querySelector('#DPLNesupUJshJIjzaopj')?.remove();
 })();
