@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         DPLN
+// @name         Dofus pour les noobs
 // @namespace    https://github.com/Enzu83
 // @version      1.0
 // @description  Removes annoying AD placeholders and "Ask Again" footer
