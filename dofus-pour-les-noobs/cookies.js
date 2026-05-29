@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Dofus pour les noobs
+// @name         Dofus pour les noobs - Remove Cookies sections
 // @namespace    https://github.com/Enzu83
 // @version      1.0
 // @description  Removes Cookie footer "Ask Again"

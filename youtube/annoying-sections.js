@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Youtube Annoying Sections
+// @name         Youtube - Annoying Sections
 // @namespace    https://github.com/Enzu83
 // @version      1.0
 // @description  Removes "Most Relevant" and "Shorts" sections

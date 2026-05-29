@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Dofus pour les noobs
+// @name         Dofus pour les noobs - Remove AD placeholders
 // @namespace    https://github.com/Enzu83
 // @version      1.0
 // @description  Removes AD placeholders
