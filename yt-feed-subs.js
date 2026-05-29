@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Youtube Feed Subsciptions
+// @name         Youtube Annoying Sections
 // @namespace    https://github.com/Enzu83
 // @version      1.0
 // @description  Removes "Most Relevant" and "Shorts" sections
-// @match        https://www.youtube.com/feed/subscriptions
+// @match        https://www.youtube.com
 // @grant        none
 // ==/UserScript==
 
