@@ -10,5 +10,9 @@
 (function () {
     'use strict';
 
+    // Remove footer
     document.querySelector('#DPLNesupUJshJIjzaopj')?.remove();
+
+    // Remove warning in comment section
+    document.querySelector('#disqus_thread')?.remove();
 })();
